@@ -5,6 +5,9 @@ For more information about the exam, visit https://www.microsoft.com/en-us/learn
 
 This study guide is open for anyone interested in writing the exam. If you have material you feel worthy of adding to the guide, please submit a PR.
 
+Note: The AZ-300 was recently updated. I have added the new topics to the study guide, but have not added URLs. I already wrote the exam and don't need to go back.
+Details https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2MzM1
+
 # Core Objectives
 * Deploy and Configure Infrastructure (25-30%)
 * Implement Workloads and Security (20-25%)
